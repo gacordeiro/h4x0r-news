@@ -10,7 +10,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("Hi")
+//        NavigationView {
+////            List(posts) { post in
+////                Text(post.title)
+////            }
+////            .navigationBarTitle("H4X0R NEWS")
+//        }
     }
 }
 
@@ -19,3 +25,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
